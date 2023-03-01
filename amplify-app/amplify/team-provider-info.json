@@ -10,6 +10,11 @@
       "StackName": "amplify-angularapp-dev-153144",
       "StackId": "arn:aws:cloudformation:ap-northeast-1:796462884449:stack/amplify-angularapp-dev-153144/3b15be40-b818-11ed-9fee-0e97092f429d",
       "AmplifyAppId": "d2ke5aurohyezt"
+    },
+    "categories": {
+      "api": {
+        "angularapp": {}
+      }
     }
   }
 }
